@@ -1,0 +1,59 @@
+C:\Users\user1\Documents\c# net\MyBigPrject\bin\Dalfacade.deps.json
+C:\Users\user1\Documents\c# net\MyBigPrject\bin\Dalfacade.dll
+C:\Users\user1\Documents\c# net\MyBigPrject\bin\Dalfacade.pdb
+C:\Users\user1\Documents\c# net\MyBigPrject\Dalfacade\obj\Debug\Dalfacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\c# net\MyBigPrject\Dalfacade\obj\Debug\Dalfacade.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\c# net\MyBigPrject\Dalfacade\obj\Debug\Dalfacade.AssemblyInfo.cs
+C:\Users\user1\Documents\c# net\MyBigPrject\Dalfacade\obj\Debug\Dalfacade.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\c# net\MyBigPrject\Dalfacade\obj\Debug\Dalfacade.dll
+C:\Users\user1\Documents\c# net\MyBigPrject\Dalfacade\obj\Debug\refint\Dalfacade.dll
+C:\Users\user1\Documents\c# net\MyBigPrject\Dalfacade\obj\Debug\Dalfacade.pdb
+C:\Users\user1\Documents\c# net\MyBigPrject\Dalfacade\obj\Debug\ref\Dalfacade.dll
+M:\C#\gitproj\c-sharp-project\MyBigPrject\bin\Dalfacade.deps.json
+M:\C#\gitproj\c-sharp-project\MyBigPrject\bin\Dalfacade.dll
+M:\C#\gitproj\c-sharp-project\MyBigPrject\bin\Dalfacade.pdb
+M:\C#\gitproj\c-sharp-project\MyBigPrject\Dalfacade\obj\Debug\Dalfacade.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\gitproj\c-sharp-project\MyBigPrject\Dalfacade\obj\Debug\Dalfacade.AssemblyInfoInputs.cache
+M:\C#\gitproj\c-sharp-project\MyBigPrject\Dalfacade\obj\Debug\Dalfacade.AssemblyInfo.cs
+M:\C#\gitproj\c-sharp-project\MyBigPrject\Dalfacade\obj\Debug\Dalfacade.csproj.CoreCompileInputs.cache
+M:\C#\gitproj\c-sharp-project\MyBigPrject\Dalfacade\obj\Debug\Dalfacade.sourcelink.json
+M:\C#\gitproj\c-sharp-project\MyBigPrject\Dalfacade\obj\Debug\Dalfacade.dll
+M:\C#\gitproj\c-sharp-project\MyBigPrject\Dalfacade\obj\Debug\refint\Dalfacade.dll
+M:\C#\gitproj\c-sharp-project\MyBigPrject\Dalfacade\obj\Debug\Dalfacade.pdb
+M:\C#\gitproj\c-sharp-project\MyBigPrject\Dalfacade\obj\Debug\ref\Dalfacade.dll
+M:\Seminar\Handesaim\14\chanadavidov\C#\gitproj\c-sharp-project\MyBigPrject\bin\Dalfacade.deps.json
+M:\Seminar\Handesaim\14\chanadavidov\C#\gitproj\c-sharp-project\MyBigPrject\bin\Dalfacade.dll
+M:\Seminar\Handesaim\14\chanadavidov\C#\gitproj\c-sharp-project\MyBigPrject\bin\Dalfacade.pdb
+M:\Seminar\Handesaim\14\chanadavidov\C#\gitproj\c-sharp-project\MyBigPrject\Dalfacade\obj\Debug\Dalfacade.GeneratedMSBuildEditorConfig.editorconfig
+M:\Seminar\Handesaim\14\chanadavidov\C#\gitproj\c-sharp-project\MyBigPrject\Dalfacade\obj\Debug\Dalfacade.AssemblyInfoInputs.cache
+M:\Seminar\Handesaim\14\chanadavidov\C#\gitproj\c-sharp-project\MyBigPrject\Dalfacade\obj\Debug\Dalfacade.AssemblyInfo.cs
+M:\Seminar\Handesaim\14\chanadavidov\C#\gitproj\c-sharp-project\MyBigPrject\Dalfacade\obj\Debug\Dalfacade.csproj.CoreCompileInputs.cache
+M:\Seminar\Handesaim\14\chanadavidov\C#\gitproj\c-sharp-project\MyBigPrject\Dalfacade\obj\Debug\Dalfacade.sourcelink.json
+M:\Seminar\Handesaim\14\chanadavidov\C#\gitproj\c-sharp-project\MyBigPrject\Dalfacade\obj\Debug\Dalfacade.dll
+M:\Seminar\Handesaim\14\chanadavidov\C#\gitproj\c-sharp-project\MyBigPrject\Dalfacade\obj\Debug\refint\Dalfacade.dll
+M:\Seminar\Handesaim\14\chanadavidov\C#\gitproj\c-sharp-project\MyBigPrject\Dalfacade\obj\Debug\Dalfacade.pdb
+M:\Seminar\Handesaim\14\chanadavidov\C#\gitproj\c-sharp-project\MyBigPrject\Dalfacade\obj\Debug\ref\Dalfacade.dll
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\bin\Dalfacade.deps.json
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\bin\Dalfacade.dll
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\bin\Dalfacade.pdb
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\Dalfacade\obj\Debug\Dalfacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\Dalfacade\obj\Debug\Dalfacade.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\Dalfacade\obj\Debug\Dalfacade.AssemblyInfo.cs
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\Dalfacade\obj\Debug\Dalfacade.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\Dalfacade\obj\Debug\Dalfacade.sourcelink.json
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\Dalfacade\obj\Debug\Dalfacade.dll
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\Dalfacade\obj\Debug\refint\Dalfacade.dll
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\Dalfacade\obj\Debug\Dalfacade.pdb
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\Dalfacade\obj\Debug\ref\Dalfacade.dll
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\bin\Dalfacade.deps.json
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\bin\Dalfacade.dll
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\bin\Dalfacade.pdb
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\Dalfacade\obj\Debug\Dalfacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\Dalfacade\obj\Debug\Dalfacade.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\Dalfacade\obj\Debug\Dalfacade.AssemblyInfo.cs
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\Dalfacade\obj\Debug\Dalfacade.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\Dalfacade\obj\Debug\Dalfacade.sourcelink.json
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\Dalfacade\obj\Debug\Dalfacade.dll
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\Dalfacade\obj\Debug\refint\Dalfacade.dll
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\Dalfacade\obj\Debug\Dalfacade.pdb
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\Dalfacade\obj\Debug\ref\Dalfacade.dll

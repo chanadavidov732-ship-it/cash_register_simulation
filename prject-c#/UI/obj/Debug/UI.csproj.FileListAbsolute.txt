@@ -1,0 +1,64 @@
+M:\C#\gitproj\c-sharp-project\MyBigPrject\bin\UI.exe
+M:\C#\gitproj\c-sharp-project\MyBigPrject\bin\UI.deps.json
+M:\C#\gitproj\c-sharp-project\MyBigPrject\bin\UI.runtimeconfig.json
+M:\C#\gitproj\c-sharp-project\MyBigPrject\bin\UI.dll
+M:\C#\gitproj\c-sharp-project\MyBigPrject\bin\UI.pdb
+M:\C#\gitproj\c-sharp-project\MyBigPrject\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+M:\C#\gitproj\c-sharp-project\MyBigPrject\UI\obj\Debug\UI.Index.resources
+M:\C#\gitproj\c-sharp-project\MyBigPrject\UI\obj\Debug\UI.ManagerMenu.resources
+M:\C#\gitproj\c-sharp-project\MyBigPrject\UI\obj\Debug\UI.csproj.GenerateResource.cache
+M:\C#\gitproj\c-sharp-project\MyBigPrject\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\gitproj\c-sharp-project\MyBigPrject\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+M:\C#\gitproj\c-sharp-project\MyBigPrject\UI\obj\Debug\UI.AssemblyInfo.cs
+M:\C#\gitproj\c-sharp-project\MyBigPrject\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+M:\C#\gitproj\c-sharp-project\MyBigPrject\UI\obj\Debug\UI.sourcelink.json
+M:\C#\gitproj\c-sharp-project\MyBigPrject\UI\obj\Debug\UI.csproj.Up2Date
+M:\C#\gitproj\c-sharp-project\MyBigPrject\UI\obj\Debug\UI.dll
+M:\C#\gitproj\c-sharp-project\MyBigPrject\UI\obj\Debug\refint\UI.dll
+M:\C#\gitproj\c-sharp-project\MyBigPrject\UI\obj\Debug\UI.pdb
+M:\C#\gitproj\c-sharp-project\MyBigPrject\UI\obj\Debug\UI.genruntimeconfig.cache
+M:\C#\gitproj\c-sharp-project\MyBigPrject\UI\obj\Debug\ref\UI.dll
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\bin\UI.exe
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\bin\UI.deps.json
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\bin\UI.runtimeconfig.json
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\bin\UI.dll
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\bin\UI.pdb
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\UI\obj\Debug\UI.Index.resources
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\UI\obj\Debug\UI.SubMenu.resources
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\UI\obj\Debug\UI.AssemblyInfo.cs
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\UI\obj\Debug\UI.sourcelink.json
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\UI\obj\Debug\UI.csproj.Up2Date
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\UI\obj\Debug\UI.dll
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\UI\obj\Debug\refint\UI.dll
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\UI\obj\Debug\UI.pdb
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\UI\obj\Debug\UI.genruntimeconfig.cache
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\UI\obj\Debug\ref\UI.dll
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\UI\obj\Debug\UI.CashierForm.resources
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\UI\obj\Debug\UI.ProductSelectionForm.resources
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\bin\UI.exe
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\bin\UI.deps.json
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\bin\UI.runtimeconfig.json
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\bin\UI.dll
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\bin\UI.pdb
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\UI\obj\Debug\UI.CashierForm.resources
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\UI\obj\Debug\UI.Index.resources
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\UI\obj\Debug\UI.ProductSelectionForm.resources
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\UI\obj\Debug\UI.SubMenu.resources
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\UI\obj\Debug\UI.AssemblyInfo.cs
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\UI\obj\Debug\UI.sourcelink.json
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\UI\obj\Debug\UI.csproj.Up2Date
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\UI\obj\Debug\UI.dll
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\UI\obj\Debug\refint\UI.dll
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\UI\obj\Debug\UI.pdb
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\UI\obj\Debug\UI.genruntimeconfig.cache
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\UI\obj\Debug\ref\UI.dll

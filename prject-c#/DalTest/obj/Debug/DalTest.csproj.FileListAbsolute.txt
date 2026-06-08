@@ -1,0 +1,84 @@
+C:\Users\user1\Documents\c# net\MyBigPrject\bin\DalTest.exe
+C:\Users\user1\Documents\c# net\MyBigPrject\bin\DalTest.deps.json
+C:\Users\user1\Documents\c# net\MyBigPrject\bin\DalTest.runtimeconfig.json
+C:\Users\user1\Documents\c# net\MyBigPrject\bin\DalTest.dll
+C:\Users\user1\Documents\c# net\MyBigPrject\bin\DalTest.pdb
+C:\Users\user1\Documents\c# net\MyBigPrject\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\c# net\MyBigPrject\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\c# net\MyBigPrject\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\c# net\MyBigPrject\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+C:\Users\user1\Documents\c# net\MyBigPrject\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\c# net\MyBigPrject\DalTest\obj\Debug\DalTest.csproj.Up2Date
+C:\Users\user1\Documents\c# net\MyBigPrject\DalTest\obj\Debug\DalTest.dll
+C:\Users\user1\Documents\c# net\MyBigPrject\DalTest\obj\Debug\refint\DalTest.dll
+C:\Users\user1\Documents\c# net\MyBigPrject\DalTest\obj\Debug\DalTest.pdb
+C:\Users\user1\Documents\c# net\MyBigPrject\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+C:\Users\user1\Documents\c# net\MyBigPrject\DalTest\obj\Debug\ref\DalTest.dll
+M:\C#\gitproj\c-sharp-project\MyBigPrject\bin\DalTest.exe
+M:\C#\gitproj\c-sharp-project\MyBigPrject\bin\DalTest.deps.json
+M:\C#\gitproj\c-sharp-project\MyBigPrject\bin\DalTest.runtimeconfig.json
+M:\C#\gitproj\c-sharp-project\MyBigPrject\bin\DalTest.dll
+M:\C#\gitproj\c-sharp-project\MyBigPrject\bin\DalTest.pdb
+M:\C#\gitproj\c-sharp-project\MyBigPrject\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+M:\C#\gitproj\c-sharp-project\MyBigPrject\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\gitproj\c-sharp-project\MyBigPrject\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+M:\C#\gitproj\c-sharp-project\MyBigPrject\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+M:\C#\gitproj\c-sharp-project\MyBigPrject\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+M:\C#\gitproj\c-sharp-project\MyBigPrject\DalTest\obj\Debug\DalTest.sourcelink.json
+M:\C#\gitproj\c-sharp-project\MyBigPrject\DalTest\obj\Debug\DalTest.csproj.Up2Date
+M:\C#\gitproj\c-sharp-project\MyBigPrject\DalTest\obj\Debug\DalTest.dll
+M:\C#\gitproj\c-sharp-project\MyBigPrject\DalTest\obj\Debug\refint\DalTest.dll
+M:\C#\gitproj\c-sharp-project\MyBigPrject\DalTest\obj\Debug\DalTest.pdb
+M:\C#\gitproj\c-sharp-project\MyBigPrject\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+M:\C#\gitproj\c-sharp-project\MyBigPrject\DalTest\obj\Debug\ref\DalTest.dll
+M:\Seminar\Handesaim\14\chanadavidov\C#\gitproj\c-sharp-project\MyBigPrject\bin\DalTest.exe
+M:\Seminar\Handesaim\14\chanadavidov\C#\gitproj\c-sharp-project\MyBigPrject\bin\DalTest.deps.json
+M:\Seminar\Handesaim\14\chanadavidov\C#\gitproj\c-sharp-project\MyBigPrject\bin\DalTest.runtimeconfig.json
+M:\Seminar\Handesaim\14\chanadavidov\C#\gitproj\c-sharp-project\MyBigPrject\bin\DalTest.dll
+M:\Seminar\Handesaim\14\chanadavidov\C#\gitproj\c-sharp-project\MyBigPrject\bin\DalTest.pdb
+M:\Seminar\Handesaim\14\chanadavidov\C#\gitproj\c-sharp-project\MyBigPrject\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+M:\Seminar\Handesaim\14\chanadavidov\C#\gitproj\c-sharp-project\MyBigPrject\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+M:\Seminar\Handesaim\14\chanadavidov\C#\gitproj\c-sharp-project\MyBigPrject\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+M:\Seminar\Handesaim\14\chanadavidov\C#\gitproj\c-sharp-project\MyBigPrject\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+M:\Seminar\Handesaim\14\chanadavidov\C#\gitproj\c-sharp-project\MyBigPrject\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+M:\Seminar\Handesaim\14\chanadavidov\C#\gitproj\c-sharp-project\MyBigPrject\DalTest\obj\Debug\DalTest.sourcelink.json
+M:\Seminar\Handesaim\14\chanadavidov\C#\gitproj\c-sharp-project\MyBigPrject\DalTest\obj\Debug\DalTest.csproj.Up2Date
+M:\Seminar\Handesaim\14\chanadavidov\C#\gitproj\c-sharp-project\MyBigPrject\DalTest\obj\Debug\DalTest.dll
+M:\Seminar\Handesaim\14\chanadavidov\C#\gitproj\c-sharp-project\MyBigPrject\DalTest\obj\Debug\refint\DalTest.dll
+M:\Seminar\Handesaim\14\chanadavidov\C#\gitproj\c-sharp-project\MyBigPrject\DalTest\obj\Debug\DalTest.pdb
+M:\Seminar\Handesaim\14\chanadavidov\C#\gitproj\c-sharp-project\MyBigPrject\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+M:\Seminar\Handesaim\14\chanadavidov\C#\gitproj\c-sharp-project\MyBigPrject\DalTest\obj\Debug\ref\DalTest.dll
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\bin\DalTest.exe
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\bin\DalTest.deps.json
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\bin\DalTest.runtimeconfig.json
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\bin\DalTest.dll
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\bin\DalTest.pdb
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\DalTest\obj\Debug\DalTest.sourcelink.json
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\DalTest\obj\Debug\DalTest.csproj.Up2Date
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\DalTest\obj\Debug\DalTest.dll
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\DalTest\obj\Debug\refint\DalTest.dll
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\DalTest\obj\Debug\DalTest.pdb
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\DalTest\obj\Debug\ref\DalTest.dll
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\bin\DalTest.exe
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\bin\DalTest.deps.json
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\bin\DalTest.runtimeconfig.json
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\bin\DalTest.dll
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\bin\DalTest.pdb
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\DalTest\obj\Debug\DalTest.sourcelink.json
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\DalTest\obj\Debug\DalTest.csproj.Up2Date
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\DalTest\obj\Debug\DalTest.dll
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\DalTest\obj\Debug\refint\DalTest.dll
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\DalTest\obj\Debug\DalTest.pdb
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\DalTest\obj\Debug\ref\DalTest.dll

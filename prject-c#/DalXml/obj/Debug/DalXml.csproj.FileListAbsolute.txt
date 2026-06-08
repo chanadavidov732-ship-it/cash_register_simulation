@@ -1,0 +1,69 @@
+C:\Users\user1\Documents\c# net\MyBigPrject\bin\DalXml.deps.json
+C:\Users\user1\Documents\c# net\MyBigPrject\bin\DalXml.dll
+C:\Users\user1\Documents\c# net\MyBigPrject\bin\DalXml.pdb
+C:\Users\user1\Documents\c# net\MyBigPrject\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\c# net\MyBigPrject\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\c# net\MyBigPrject\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\c# net\MyBigPrject\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+C:\Users\user1\Documents\c# net\MyBigPrject\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\c# net\MyBigPrject\DalXml\obj\Debug\DalXml.csproj.Up2Date
+C:\Users\user1\Documents\c# net\MyBigPrject\DalXml\obj\Debug\DalXml.dll
+C:\Users\user1\Documents\c# net\MyBigPrject\DalXml\obj\Debug\refint\DalXml.dll
+C:\Users\user1\Documents\c# net\MyBigPrject\DalXml\obj\Debug\DalXml.pdb
+C:\Users\user1\Documents\c# net\MyBigPrject\DalXml\obj\Debug\ref\DalXml.dll
+M:\C#\gitproj\c-sharp-project\MyBigPrject\bin\DalXml.deps.json
+M:\C#\gitproj\c-sharp-project\MyBigPrject\bin\DalXml.dll
+M:\C#\gitproj\c-sharp-project\MyBigPrject\bin\DalXml.pdb
+M:\C#\gitproj\c-sharp-project\MyBigPrject\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+M:\C#\gitproj\c-sharp-project\MyBigPrject\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\gitproj\c-sharp-project\MyBigPrject\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+M:\C#\gitproj\c-sharp-project\MyBigPrject\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+M:\C#\gitproj\c-sharp-project\MyBigPrject\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+M:\C#\gitproj\c-sharp-project\MyBigPrject\DalXml\obj\Debug\DalXml.sourcelink.json
+M:\C#\gitproj\c-sharp-project\MyBigPrject\DalXml\obj\Debug\DalXml.csproj.Up2Date
+M:\C#\gitproj\c-sharp-project\MyBigPrject\DalXml\obj\Debug\DalXml.dll
+M:\C#\gitproj\c-sharp-project\MyBigPrject\DalXml\obj\Debug\refint\DalXml.dll
+M:\C#\gitproj\c-sharp-project\MyBigPrject\DalXml\obj\Debug\DalXml.pdb
+M:\C#\gitproj\c-sharp-project\MyBigPrject\DalXml\obj\Debug\ref\DalXml.dll
+M:\Seminar\Handesaim\14\chanadavidov\C#\gitproj\c-sharp-project\MyBigPrject\bin\DalXml.deps.json
+M:\Seminar\Handesaim\14\chanadavidov\C#\gitproj\c-sharp-project\MyBigPrject\bin\DalXml.dll
+M:\Seminar\Handesaim\14\chanadavidov\C#\gitproj\c-sharp-project\MyBigPrject\bin\DalXml.pdb
+M:\Seminar\Handesaim\14\chanadavidov\C#\gitproj\c-sharp-project\MyBigPrject\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+M:\Seminar\Handesaim\14\chanadavidov\C#\gitproj\c-sharp-project\MyBigPrject\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+M:\Seminar\Handesaim\14\chanadavidov\C#\gitproj\c-sharp-project\MyBigPrject\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+M:\Seminar\Handesaim\14\chanadavidov\C#\gitproj\c-sharp-project\MyBigPrject\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+M:\Seminar\Handesaim\14\chanadavidov\C#\gitproj\c-sharp-project\MyBigPrject\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+M:\Seminar\Handesaim\14\chanadavidov\C#\gitproj\c-sharp-project\MyBigPrject\DalXml\obj\Debug\DalXml.sourcelink.json
+M:\Seminar\Handesaim\14\chanadavidov\C#\gitproj\c-sharp-project\MyBigPrject\DalXml\obj\Debug\DalXml.csproj.Up2Date
+M:\Seminar\Handesaim\14\chanadavidov\C#\gitproj\c-sharp-project\MyBigPrject\DalXml\obj\Debug\DalXml.dll
+M:\Seminar\Handesaim\14\chanadavidov\C#\gitproj\c-sharp-project\MyBigPrject\DalXml\obj\Debug\refint\DalXml.dll
+M:\Seminar\Handesaim\14\chanadavidov\C#\gitproj\c-sharp-project\MyBigPrject\DalXml\obj\Debug\DalXml.pdb
+M:\Seminar\Handesaim\14\chanadavidov\C#\gitproj\c-sharp-project\MyBigPrject\DalXml\obj\Debug\ref\DalXml.dll
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\bin\DalXml.deps.json
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\bin\DalXml.dll
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\bin\DalXml.pdb
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\DalXml\obj\Debug\DalXml.sourcelink.json
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\DalXml\obj\Debug\DalXml.csproj.Up2Date
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\DalXml\obj\Debug\DalXml.dll
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\DalXml\obj\Debug\refint\DalXml.dll
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\DalXml\obj\Debug\DalXml.pdb
+C:\Users\user1\Documents\c# net\gitproj\c-sharp-project\MyBigPrject\DalXml\obj\Debug\ref\DalXml.dll
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\bin\DalXml.deps.json
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\bin\DalXml.dll
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\bin\DalXml.pdb
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\DalXml\obj\Debug\DalXml.sourcelink.json
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\DalXml\obj\Debug\DalXml.csproj.Up2Date
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\DalXml\obj\Debug\DalXml.dll
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\DalXml\obj\Debug\refint\DalXml.dll
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\DalXml\obj\Debug\DalXml.pdb
+C:\Users\user1\Documents\פרויקט C#\MyBigPrject\DalXml\obj\Debug\ref\DalXml.dll
