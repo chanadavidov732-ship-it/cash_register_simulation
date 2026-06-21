@@ -78,11 +78,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user1\\Documents\\פרויקט C#\\MyBigPrject\\DalXml\\DalXml.csproj",
+      "projectUniqueName": "C:\\Users\\user1\\Documents\\git-c#-project\\prject-c#\\DalXml\\DalXml.csproj",
       "projectName": "DalXml",
-      "projectPath": "C:\\Users\\user1\\Documents\\פרויקט C#\\MyBigPrject\\DalXml\\DalXml.csproj",
+      "projectPath": "C:\\Users\\user1\\Documents\\git-c#-project\\prject-c#\\DalXml\\DalXml.csproj",
       "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user1\\Documents\\פרויקט C#\\MyBigPrject\\DalXml\\obj\\",
+      "outputPath": "C:\\Users\\user1\\Documents\\git-c#-project\\prject-c#\\DalXml\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -104,11 +104,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\user1\\Documents\\פרויקט C#\\MyBigPrject\\Dalfacade\\Dalfacade.csproj": {
-              "projectPath": "C:\\Users\\user1\\Documents\\פרויקט C#\\MyBigPrject\\Dalfacade\\Dalfacade.csproj"
+            "C:\\Users\\user1\\Documents\\git-c#-project\\prject-c#\\Dalfacade\\Dalfacade.csproj": {
+              "projectPath": "C:\\Users\\user1\\Documents\\git-c#-project\\prject-c#\\Dalfacade\\Dalfacade.csproj"
             },
-            "C:\\Users\\user1\\Documents\\פרויקט C#\\MyBigPrject\\DalList\\DalList.csproj": {
-              "projectPath": "C:\\Users\\user1\\Documents\\פרויקט C#\\MyBigPrject\\DalList\\DalList.csproj"
+            "C:\\Users\\user1\\Documents\\git-c#-project\\prject-c#\\DalList\\DalList.csproj": {
+              "projectPath": "C:\\Users\\user1\\Documents\\git-c#-project\\prject-c#\\DalList\\DalList.csproj"
             }
           }
         }

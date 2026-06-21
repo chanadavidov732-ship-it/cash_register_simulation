@@ -67,3 +67,17 @@ C:\Users\user1\Documents\פרויקט C#\MyBigPrject\DalXml\obj\Debug\DalXml.dll
 C:\Users\user1\Documents\פרויקט C#\MyBigPrject\DalXml\obj\Debug\refint\DalXml.dll
 C:\Users\user1\Documents\פרויקט C#\MyBigPrject\DalXml\obj\Debug\DalXml.pdb
 C:\Users\user1\Documents\פרויקט C#\MyBigPrject\DalXml\obj\Debug\ref\DalXml.dll
+C:\Users\user1\Documents\git-c#-project\prject-c#\bin\DalXml.deps.json
+C:\Users\user1\Documents\git-c#-project\prject-c#\bin\DalXml.dll
+C:\Users\user1\Documents\git-c#-project\prject-c#\bin\DalXml.pdb
+C:\Users\user1\Documents\git-c#-project\prject-c#\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\git-c#-project\prject-c#\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\git-c#-project\prject-c#\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\git-c#-project\prject-c#\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+C:\Users\user1\Documents\git-c#-project\prject-c#\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\git-c#-project\prject-c#\DalXml\obj\Debug\DalXml.sourcelink.json
+C:\Users\user1\Documents\git-c#-project\prject-c#\DalXml\obj\Debug\DalXml.csproj.Up2Date
+C:\Users\user1\Documents\git-c#-project\prject-c#\DalXml\obj\Debug\DalXml.dll
+C:\Users\user1\Documents\git-c#-project\prject-c#\DalXml\obj\Debug\refint\DalXml.dll
+C:\Users\user1\Documents\git-c#-project\prject-c#\DalXml\obj\Debug\DalXml.pdb
+C:\Users\user1\Documents\git-c#-project\prject-c#\DalXml\obj\Debug\ref\DalXml.dll

@@ -62,3 +62,25 @@ C:\Users\user1\Documents\פרויקט C#\MyBigPrject\UI\obj\Debug\refint\UI.dll
 C:\Users\user1\Documents\פרויקט C#\MyBigPrject\UI\obj\Debug\UI.pdb
 C:\Users\user1\Documents\פרויקט C#\MyBigPrject\UI\obj\Debug\UI.genruntimeconfig.cache
 C:\Users\user1\Documents\פרויקט C#\MyBigPrject\UI\obj\Debug\ref\UI.dll
+C:\Users\user1\Documents\git-c#-project\prject-c#\bin\UI.exe
+C:\Users\user1\Documents\git-c#-project\prject-c#\bin\UI.deps.json
+C:\Users\user1\Documents\git-c#-project\prject-c#\bin\UI.runtimeconfig.json
+C:\Users\user1\Documents\git-c#-project\prject-c#\bin\UI.dll
+C:\Users\user1\Documents\git-c#-project\prject-c#\bin\UI.pdb
+C:\Users\user1\Documents\git-c#-project\prject-c#\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\git-c#-project\prject-c#\UI\obj\Debug\UI.CashierForm.resources
+C:\Users\user1\Documents\git-c#-project\prject-c#\UI\obj\Debug\UI.Index.resources
+C:\Users\user1\Documents\git-c#-project\prject-c#\UI\obj\Debug\UI.ProductSelectionForm.resources
+C:\Users\user1\Documents\git-c#-project\prject-c#\UI\obj\Debug\UI.SubMenu.resources
+C:\Users\user1\Documents\git-c#-project\prject-c#\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\user1\Documents\git-c#-project\prject-c#\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\git-c#-project\prject-c#\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\git-c#-project\prject-c#\UI\obj\Debug\UI.AssemblyInfo.cs
+C:\Users\user1\Documents\git-c#-project\prject-c#\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\git-c#-project\prject-c#\UI\obj\Debug\UI.sourcelink.json
+C:\Users\user1\Documents\git-c#-project\prject-c#\UI\obj\Debug\UI.csproj.Up2Date
+C:\Users\user1\Documents\git-c#-project\prject-c#\UI\obj\Debug\UI.dll
+C:\Users\user1\Documents\git-c#-project\prject-c#\UI\obj\Debug\refint\UI.dll
+C:\Users\user1\Documents\git-c#-project\prject-c#\UI\obj\Debug\UI.pdb
+C:\Users\user1\Documents\git-c#-project\prject-c#\UI\obj\Debug\UI.genruntimeconfig.cache
+C:\Users\user1\Documents\git-c#-project\prject-c#\UI\obj\Debug\ref\UI.dll

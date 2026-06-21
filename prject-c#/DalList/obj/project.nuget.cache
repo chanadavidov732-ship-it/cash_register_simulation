@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eJiqWCX0/es=",
+  "dgSpecHash": "72DwMvjNAD8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user1\\Documents\\פרויקט C#\\MyBigPrject\\DalList\\DalList.csproj",
+  "projectFilePath": "C:\\Users\\user1\\Documents\\git-c#-project\\prject-c#\\DalList\\DalList.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user1\\.nuget\\packages\\servicestack.interfaces\\10.0.4\\servicestack.interfaces.10.0.4.nupkg.sha512"
   ],

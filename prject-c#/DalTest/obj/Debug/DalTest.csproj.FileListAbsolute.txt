@@ -82,3 +82,20 @@ C:\Users\user1\Documents\פרויקט C#\MyBigPrject\DalTest\obj\Debug\refint\Da
 C:\Users\user1\Documents\פרויקט C#\MyBigPrject\DalTest\obj\Debug\DalTest.pdb
 C:\Users\user1\Documents\פרויקט C#\MyBigPrject\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
 C:\Users\user1\Documents\פרויקט C#\MyBigPrject\DalTest\obj\Debug\ref\DalTest.dll
+C:\Users\user1\Documents\git-c#-project\prject-c#\bin\DalTest.exe
+C:\Users\user1\Documents\git-c#-project\prject-c#\bin\DalTest.deps.json
+C:\Users\user1\Documents\git-c#-project\prject-c#\bin\DalTest.runtimeconfig.json
+C:\Users\user1\Documents\git-c#-project\prject-c#\bin\DalTest.dll
+C:\Users\user1\Documents\git-c#-project\prject-c#\bin\DalTest.pdb
+C:\Users\user1\Documents\git-c#-project\prject-c#\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\git-c#-project\prject-c#\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\git-c#-project\prject-c#\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\git-c#-project\prject-c#\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+C:\Users\user1\Documents\git-c#-project\prject-c#\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\git-c#-project\prject-c#\DalTest\obj\Debug\DalTest.sourcelink.json
+C:\Users\user1\Documents\git-c#-project\prject-c#\DalTest\obj\Debug\DalTest.csproj.Up2Date
+C:\Users\user1\Documents\git-c#-project\prject-c#\DalTest\obj\Debug\DalTest.dll
+C:\Users\user1\Documents\git-c#-project\prject-c#\DalTest\obj\Debug\refint\DalTest.dll
+C:\Users\user1\Documents\git-c#-project\prject-c#\DalTest\obj\Debug\DalTest.pdb
+C:\Users\user1\Documents\git-c#-project\prject-c#\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+C:\Users\user1\Documents\git-c#-project\prject-c#\DalTest\obj\Debug\ref\DalTest.dll

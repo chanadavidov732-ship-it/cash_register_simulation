@@ -54,3 +54,17 @@ C:\Users\user1\Documents\פרויקט C#\MyBigPrject\BL\obj\Debug\BL.dll
 C:\Users\user1\Documents\פרויקט C#\MyBigPrject\BL\obj\Debug\refint\BL.dll
 C:\Users\user1\Documents\פרויקט C#\MyBigPrject\BL\obj\Debug\BL.pdb
 C:\Users\user1\Documents\פרויקט C#\MyBigPrject\BL\obj\Debug\ref\BL.dll
+C:\Users\user1\Documents\git-c#-project\prject-c#\bin\BL.deps.json
+C:\Users\user1\Documents\git-c#-project\prject-c#\bin\BL.dll
+C:\Users\user1\Documents\git-c#-project\prject-c#\bin\BL.pdb
+C:\Users\user1\Documents\git-c#-project\prject-c#\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\git-c#-project\prject-c#\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\git-c#-project\prject-c#\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\git-c#-project\prject-c#\BL\obj\Debug\BL.AssemblyInfo.cs
+C:\Users\user1\Documents\git-c#-project\prject-c#\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\git-c#-project\prject-c#\BL\obj\Debug\BL.sourcelink.json
+C:\Users\user1\Documents\git-c#-project\prject-c#\BL\obj\Debug\BL.csproj.Up2Date
+C:\Users\user1\Documents\git-c#-project\prject-c#\BL\obj\Debug\BL.dll
+C:\Users\user1\Documents\git-c#-project\prject-c#\BL\obj\Debug\refint\BL.dll
+C:\Users\user1\Documents\git-c#-project\prject-c#\BL\obj\Debug\BL.pdb
+C:\Users\user1\Documents\git-c#-project\prject-c#\BL\obj\Debug\ref\BL.dll
